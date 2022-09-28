@@ -1,0 +1,116 @@
+*{
+  margin: 0;
+}
+body {
+  background-color: #FFDEDE;
+  margin: 0;
+  z-index: -1;
+}
+.nav{
+  padding: 5px;
+  padding-top: 20px;
+  font-size: 18px;
+}
+.mango{
+  font-size: 40px;
+  text-decoration: none;
+  margin-top: -5px;
+  
+}
+
+.head {
+  font-family: Dancing script;
+}
+
+.brandName {
+  font-family: Dancing script;
+  font-weight: 900;
+  font-size: 45px;
+  margin-left: 400px;
+  margin-right: -50px;
+  margin-top: 250px;
+  margin-bottom: 190px;
+  color: #EB1D36;
+}
+
+.subBrand {
+  font-family: Kdam Thmor Pro;
+  color: black;
+  font-weight: 100;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+.nav-item {
+  color: #EB1D36;
+  margin-right: 40px;
+}
+
+.mango {
+  font-family: Dancing script;
+
+}
+
+.navbar-brand {
+  margin-left: 10px;
+}
+
+.login {
+  margin-left: 120px;
+  margin-right: 60px;
+  margin-top: -80px;
+  float: right;
+  font-family: Arial;
+  font-size: 20px;
+
+}
+
+.color {
+  background-color: white;
+}
+
+.btn {
+  border-radius: 10px;
+  margin: 0;
+  width: 320px;
+  margin-bottom: 10px;
+}
+
+.btn2 {
+  background-color: #36AE7C;
+  border-radius: 10px;
+  margin: 0;
+  width: 320px;
+  margin-top: 10px
+}
+
+.box {
+  border-radius: 5px;
+  border: 25px;
+}
+
+hr {
+  color: black;
+}
+
+.image {
+  margin-left: -400px;
+  margin-top: -180px;
+  margin-right: -10px;
+  padding-right: 100px;
+}
+
+
+
+.friends{
+  margin-left: -600px;
+  margin-top: -350px;
+  margin-right: -100px;
+  padding-right: 50px;
+  margin-bottom: 0;
+}
