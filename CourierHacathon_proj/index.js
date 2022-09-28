@@ -20,7 +20,7 @@ app.get("/",function(req,res){
 });
 
 app.post("/",function(req, res){
-const emails = ["mango.26june@gmail.com","manglam.26june@gmail.com","vrajtalatii@gmail.com"]
+const emails = ["mango.26june@gmail.com","arnavnpatil@gmail.com","manglam.26june@gmail.com"]
 const fetch = require('node-fetch');
 
 const name = req.body.fname;
@@ -52,7 +52,7 @@ const email = req.body.fmail;
        }],
       "content":{
         "title":"Need Blood",
-        "body":"name: "+name+"  city:  "+city+"  phone: "+phone+"    blood: "+blood+" please contact me ASAP!"
+        "body":"name: "+name+",  city:  "+city+",  phone: "+phone+",    blood: "+blood+" please contact me ASAP!"
       }
     }
   })
